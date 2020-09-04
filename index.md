@@ -10,4 +10,6 @@ We are a team of master students at Oslo Metropolitan University, embarking on a
 ## Reduce risk of Covid-19 infection in an educational setting
 The project aim is to use Machine Learning and simulation to better understand how to minimize Covid-19 spread in an educational campus setting.
 
+## Code
+[Project repository](https://github.com/ACIT4040-AI-simulation/AAI-Simulation-Project)
 More information will follow as the project progresses.
