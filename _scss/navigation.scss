@@ -19,7 +19,7 @@ nav a[aria-current=page]::after{
   top:100%;
   left:.5em;
   right:.5em;
-  margin-top: .3em;
+  margin-top: 0;
   background: $color_current_page_indicator;
 }
 
