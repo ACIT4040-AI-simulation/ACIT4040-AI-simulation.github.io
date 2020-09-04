@@ -1,0 +1,31 @@
+main, footer, nav {
+  max-width: $max_content_width;
+  margin: auto; margin-left:0; padding: 0 .5rem;
+
+}
+
+.page-footer-wrap, .page-nav-wrap {
+  background: $background_color_header_and_footer;
+
+  border: $header_and_footer_border_style;
+}
+.page-footer-wrap {
+  background: $background_footer_gradient;
+  border-top-width: 1px;}
+.page-nav-wrap {
+  background: $background_header_gradient;
+  border-bottom-width: 1px;}
+
+footer {
+  padding: .5rem;
+}
+main {
+  margin-top:0;
+}
+
+@media screen and (min-width:$max_content_width) {
+  main, footer, nav {
+    width: $max_content_width;
+    margin-left: auto;
+  }
+}
