@@ -15,20 +15,24 @@ This is an early test of using GitHub pages with jekyll which transforms page te
 There are two options for using GitHub pages.
 
 ### Two separate repositories (one for the project code and one for the project website)
-
-#### Two repositories (separate repository for project website)
 This option is to have 
 1) a repository for the project code
 2) a separate repository for GitHub pages which has the same name as the github user account or organization in our case.
 
 In our case the repository name is: acit4040-ai-simulation.github.io which matches our GitHub organization, and the files for the webpage will be in the master branch of this repository.
 
-This will make the project website appear of the format: https://GITHUB-ORGANIZATION-NAME.github.io, in our case the url: **https://acit4040-ai-simulation.github.io/**
+#### URL-format when using dedicated separate repository for our organization for GitHub Pages
+- https://GITHUB-ORGANIZATION-NAME.github.io 
+- **https://acit4040-ai-simulation.github.io/** (in our case)
 
-#### One repostory
-In this option we only use one repository for the code in master branch or other branches, and serve serving GitHub pages from **gh-pages branch**)
+### One repostory where a dedicated branch serves the project website
+In this option we only use one repository. The the code will be in master branch or other branches, and we will serve GitHub pages from **gh-pages branch**)
 
-This option is if we want to have only one single repository, and serve GitHub pages from the gh-pages branch. The pages will look identical, but the url to GitHub pages will be a little different, as it will be of the format https://GITHUB-ORG-NAME.github.io/REPOSITORY-NAME, in our case: **https://acit4040-ai-simulation.github.io/AAI-Simulation-Project**
+The pages will look identical, but the url to GitHub pages will be a little different.
+
+#### URL-format when using dedicated branch for GitHub Pages
+- https://GITHUB-ORG-NAME.github.io/REPOSITORY-NAME
+- **https://acit4040-ai-simulation.github.io/AAI-Simulation-Project** (in our case)
 
 ## Code
 Currently there is no content in the project repository:
