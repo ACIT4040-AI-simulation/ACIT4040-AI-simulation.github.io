@@ -17,6 +17,7 @@ title: ACIT4040 - Applied Artificial Intelligence Project Page
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Project page
+url: acit4040-ai-simulation.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
