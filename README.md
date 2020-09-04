@@ -1,2 +1,2 @@
 # ACIT4040-AI-simulation.github.io
-Project page for Applied Artificial Intelligence Project
+GitHub Pages project website for Applied Artificial Intelligence Simulation Project
