@@ -6,10 +6,11 @@ permalink: /resources/
 ## Covid-19
 Relevant links to information on Covid-19 for the project will be shared here.
 - [Transmission of SARS-CoV-2: implications for infection prevention precautions](https://www.who.int/news-room/commentaries/detail/transmission-of-sars-cov-2-implications-for-infection-prevention-precautions)
-
+- [Artificial Intelligence (AI) mooc on edX](https://www.edx.org/course/artificial-intelligence-ai)
 
 ## AI and Machine learning
 Relevant information and resources on AI and Machine Learning for the project will be shared here.
+
 
 ### Online Courses about Artificial Intelligence
 #### Disclaimer
